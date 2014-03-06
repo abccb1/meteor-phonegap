@@ -1,6 +1,4 @@
-cordovaapp/
 screenshots/
 *.patch
 *.apk
 *phonegap-build
-node_modules
